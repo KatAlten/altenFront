@@ -1,0 +1,6 @@
+.img-details {
+  width: 280px;
+  height: 400px;
+  object-fit: contain;
+  transition: transform 0.3s ease;
+}
